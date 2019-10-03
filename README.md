@@ -15,22 +15,22 @@ HARDWARE:
 3) Leds and Buzzers
 
 # SCREENSHOTS
->> Home Screen : Enter port of device to start communication:
+1) Home Screen : Enter port of device to start communication:
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/37211676/65943057-376c4280-e44c-11e9-9863-f422bb223b2e.png)
 
->> Registration form for new registrations:
+2) Registration form for new registrations:
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/37211676/65943069-3f2be700-e44c-11e9-86fd-cae4b7575893.png)
 
->> Password management system:
+3) Password management system:
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/37211676/65943076-46eb8b80-e44c-11e9-94dc-80fed4f7201e.png)
 
->> Instant I-Card generation:
+4) Instant I-Card generation:
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/37211676/65943097-4e129980-e44c-11e9-833b-e2e3008cf175.png)
 
->> Hardware prototype:
+5) Hardware prototype:
 
 ![WhatsApp Image 2019-08-11 at 9 41 40 PM (1)](https://user-images.githubusercontent.com/37211676/65943112-566ad480-e44c-11e9-880d-72c005c3d089.jpeg)
